@@ -1,12 +1,12 @@
 export const siteConfig = {
-  name: "LOFFYBlog",
+  name: "AnuBlog",
   url: "https://example.com",
   description: "Nextjs 14 blog using velite, tailwind and shadcn",
-  author: "ARSALAN",
+  author: "ANUBHAV",
   links: {
- codeforces: "https://codeforces.com/profile/md_arsalan",
-    github: "https://github.com/arsal-nez",
-    personalSite: "https://www.instagram.com/_sheik_arsal/",
+ codeforces: "https://codeforces.com/profile/anubhav2608",
+    github: "https://github.com/anubhavv2608",
+    personalSite: "https://www.linkedin.com/in/anubhav2608/",
   },
 };
 
